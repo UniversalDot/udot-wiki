@@ -1,16 +1,6 @@
 # udot-wiki
 The source of Truth for UniversalDot applications
 
+![Logo](https://github.com/UniversalDot/documents/blob/master/logo/rsz_jpg-02.jpg)
 
-`npm start`
-    Starts the development server.
-
-`npm run build`
-Bundles your website into static files for production.
-
-`npm run serve`
-Serves the built website locally.
-
-`npm deploy`
-Publishes the website to GitHub pages.
 
