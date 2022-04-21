@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'UNIVERSALDOT WIKI',
-  tagline: 'Building the Decentralized Web',
+  title: 'UDOT WIKI',
+  tagline: 'The Complete Guide to UDOT',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -53,9 +53,21 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Learn',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Participate',
+          },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Build',
+          },
+          {to: '/blog', label: 'Blog', position: 'right'},
           {
             href: 'https://github.com/UniversalDot',
             label: 'GitHub',
