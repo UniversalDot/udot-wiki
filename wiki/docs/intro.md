@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Architecture
+# Overview
 
 This documents describes the major components of the software solution. These include:
 - Substrate
