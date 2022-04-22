@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Design
+# An Introduction to UDOT
 
 Add **Markdown or React** files to `src/pages` to create a **standalone page**:
 
