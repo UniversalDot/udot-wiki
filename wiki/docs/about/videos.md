@@ -4,31 +4,16 @@ sidebar_position: 3
 
 # Videos
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Universaldot Foundation official YouTube channel: [UniversalDot - YouTube](https://www.youtube.com/channel/UCX8sSzJGQmqqnmOozRspNVQ)
 
-## Create your first P
+- [Promo](https://www.youtube.com/watch?v=dADLbKl1P7g)
+- [Introduction](https://www.youtube.com/watch?v=QgjvhzC47tA)
+- [Solution](https://www.youtube.com/watch?v=YJWPwlWoREc)
 
-Create a file at `blog/2021-02-28-greetings.md`:
+## Demonstrations 
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
----
+### MVP
 
-Congratulations, you have made your first post!
-
-Feel free to play around and edit this post as much you like.
-```
-
-A new blog post is now available at `http://localhost:3000/blog/greetings`.
+- [Profile](https://www.youtube.com/watch?v=2xgzU3Bqn5M)
+- [Task](https://www.youtube.com/watch?v=BwEutATKAa0)
+- [DAO](https://www.youtube.com/watch?v=1axnuzhBc1M)
