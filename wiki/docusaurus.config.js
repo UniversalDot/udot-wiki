@@ -51,19 +51,19 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'learn',
             position: 'left',
             label: 'Learn',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'join',
             position: 'left',
-            label: 'Participate',
+            label: 'Join',
           },
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'build',
             position: 'left',
             label: 'Build',
           },

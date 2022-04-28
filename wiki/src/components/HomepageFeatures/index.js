@@ -13,12 +13,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Participate',
+    title: 'Join',
     Svg: require('@site/static/img/undraw_building_blocks.svg').default,
     description: (
       <>
-        Participate in the future of work by joining the network, starting node 
-        or simply creating a profile
+        Join the future of work by joining the network, starting node 
+        or simply creating a profile.
       </>
     ),
   },
