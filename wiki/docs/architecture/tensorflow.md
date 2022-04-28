@@ -43,7 +43,8 @@ This manages (via standard TensorFlow Serving APIs) the following aspects of ser
 
 ### TensorFlow Architecture: TensorFlow Core
 
-![alt text](https://github.com/UniversalDot/udot-wiki/blob/master/wiki/static/img/serving_architecture.png)
+![Serving Architecture](src/../../../static/img/serving_architecture.png)
+
 * Lifecycle
 * Metrics
 * TensorFlow Serving Core treats servables and loaders as opaque objects.
