@@ -43,7 +43,7 @@ This manages (via standard TensorFlow Serving APIs) the following aspects of ser
 
 ### TensorFlow Architecture: TensorFlow Core
 
-![Serving Architecture](src/../../../static/img/serving_architecture.png)
+![Serving Architecture](/img/serving_architecture.png)
 
 * Lifecycle
 * Metrics
