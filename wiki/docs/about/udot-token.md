@@ -4,52 +4,29 @@ sidebar_position: 2
 
 # UDOT Token
 
-Documents are **groups of pages** connected through:
+## Summary 
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+The UDOT is UDOT application native token. The token is necessary for the correct operation of the network. 
 
-## Create your first Doc
+Honest participants are rewarded UDOT and malicious actors can lose their UDOT.
 
-Create a markdown file at `docs/hello.md`:
+## Quick Summary
 
-```md title="docs/hello.md"
-# Hello
+- **Token** Name: UDOT (UDOT) 
+- **Anticipated** Launch: November 2022
+- **Smallest Unit**: 1 Planck (1^10 Plancks = 1 UDOT)
 
-This is my **first Docusaurus document**!
-```
+- **Annual Inflation**: 7%
+- **Genesis Supply**: 1 Billion
+- **Fees**: 50% burned / 50% treasury
 
-A new document is now available at `http://localhost:3000/docs/hello`.
 
-## Configure the Sidebar
+## Uses
 
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
+UDOT is used in various parts of the core protocol. The main uses are outlined below:
 
-Add metadata to customize the sidebar label and position:
+- The base currency of exchange.
+- The staking token will be rewarded to stakers who run validator nodes supporting the network.
+- The governance token will be used to make binding decisions over the direction of the UDOT chain.
+- As the currency for transaction fees.
 
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
-
-# Hello
-
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
-      // highlight-next-line
-      items: ['hello'],
-    },
-  ],
-};
-```
