@@ -4,13 +4,15 @@ sidebar_position: 1
 
 # Learn Overview
 
-The WIKI is split in three sections. 
+Here you will **Learn** everything about UDOT. 
 
-In the Learn Section, you get to **Learn** everything about UDOT. 
+Learning is the most important aspect before you **Join** or **Build**, so we expect that you dedicate some time to learn the basics. 
 
-Learning is the most important aspect before you Join or Build, so we expect that you dedicate some time to learn the basics. 
+Learn more about the **company** that has developed this application and its vision and mission for the future.
 
-To learn about Architecture: 
+Learn about the amazing **architecture** that allowed for decentralized deployment of the application. 
+
+Learn 
 
 
 
