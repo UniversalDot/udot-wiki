@@ -12,7 +12,6 @@ Learn more about the **company** that has developed this application and its vis
 
 Learn about the amazing **architecture** that allowed for decentralized deployment of the application. 
 
-Learn 
 
 
 
