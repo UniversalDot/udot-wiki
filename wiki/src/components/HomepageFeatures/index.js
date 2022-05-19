@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Learn',
-    Svg: require('@site/static/img/undraw_knowledge.svg').default,
+    Svg: require('@site/static/img/undraw_online_learning.svg').default,
     description: (
       <>
         Learn about the UDOT application, architecture, features and uses.
@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'Join',
-    Svg: require('@site/static/img/undraw_building_blocks.svg').default,
+    Svg: require('@site/static/img/undraw_filter.svg').default,
     description: (
       <>
         Join the future of work by joining the network, starting node 
@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Build',
-    Svg: require('@site/static/img/undraw_pair_programming.svg').default,
+    Svg: require('@site/static/img/undraw_building_blocks.svg').default,
     description: (
       <>
         Access the development documentation and build with UDOT.
