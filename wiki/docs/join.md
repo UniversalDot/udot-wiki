@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Join Overview
+# Join
 
 In the Join Section, you get to experience how it is to **Join** UDOT.
 
