@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Learn Overview
+# Learn
 
 Here you will **Learn** everything about UDOT. 
 

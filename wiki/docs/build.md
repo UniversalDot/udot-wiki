@@ -2,7 +2,7 @@
 sidebar_position: 8
 ---
 
-# Build Overview
+# Build
 
 In the Build Section, you get to **Build** something amazing using UDOT.
 
