@@ -8,6 +8,6 @@ sidebar_position: 3
 
 ## Staking rewords
 
-## Become a validator
+
 
 
