@@ -45,6 +45,20 @@ Source: https://www.researchgate.net/publication/220473549_RATEWeb_Reputation_As
 ## How to delete a profile
 
 
+## Data Model of a Profile
+
+| Characteristic  | Description                                                                | Type                                        | Entry             |
+|-----------------|----------------------------------------------------------------------------|---------------------------------------------|-------------------|
+| AccountID       | Primary ID for a profile. One profile per AccountID                        | Pub key                                     | Automatic         |
+| Username        | Personal description of profile                                            | String                                      | Manual, Mandatory |
+| Interests       | Personal interests of the user. Can incorporate skills, preferences, etc.  | Array of Strings                            | Manual, Mandatory |
+| Reputation      | Score of points that the User has earned                                   | Number                                      | Automatic         |
+| Balance         | Cryptocurrency balance in the native chain coin                            | Number                                      | Automatic         |
+| Portfolio       | User can showcase personal portfolio, additional description, etc          | String (may contain list of IPFS documents) | Manual, Optional  |
+| Availability    | Hours per week the User is Available                                       | Number (approx. Or list of 10hr,20hr,30hr)  | Manual, Mandatory |
+| Profile History | Previous work history of the User                                          | Array of Tasks                              | Automatic         |
+
+
 
 
 
