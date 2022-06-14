@@ -1,17 +1,18 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+igor: 
+  name: Igor Stojanov
+  title: Founder
+  url: https://github.com/JosephKnecht-lab
+  image_url: https://avatars.githubusercontent.com/u/83087510?s=400&u=536aeabfacc8132b8ca4fffa9022a2cafcfab601&v=4
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+slave:
+  name: Slave Atanasov
+  title: Front-end developer
+  url: https://github.com/slaveatanasov
+  image_url: https://avatars.githubusercontent.com/u/36505476?v=4
+
+vivek:
+  name: Vivek Pandya
+  title: Substrate developer
+  url: https://github.com/vivekvpandya
+  image_url: https://avatars.githubusercontent.com/u/5086212?v=4

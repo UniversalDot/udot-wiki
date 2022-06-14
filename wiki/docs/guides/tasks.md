@@ -36,3 +36,24 @@ See below for reference.
 
 
 ## How to Delete A Task
+
+## Data Model of a Task
+
+| Characteristic | Description                                                                                                  | Type                                               | Entry             |
+|----------------|--------------------------------------------------------------------------------------------------------------|----------------------------------------------------|-------------------|
+| TaskID         | Unique Identifier for each task                                                                              | Hash                                               | Automatic         |
+| Title          | Task Title that describes the task                                                                           | String                                             | Manual, Mandatory |
+| Requirements   | Definition that specifies the requirements of the task                                                       | String (RichTextEditor?: JSON-Strigify)            | Manual, Mandatory |
+| Budget         | The budget for a task                                                                                        | Number                                             | Manual, Mandatory |
+| Deadline       | Expected end time for the task                                                                               | Datetime                                           | Manual, Mandatory |
+| Attachments    | Additional information that is relevant to a task.                                                           | File (Referenced by IPFS Hash)                     | Manual, Optional  |
+| Keywords       | Few words used to filter the task (mainly used for the recommendation)                                       | Array of Strings                                   | Manual, Optional  |
+| Feedback       | Comments that are added to the task. Intermediary steps of communication between the initiator and volunteer | String                                             | Manual, Optional  |
+| Initiator?     | The User who created the task                                                                                | AccoundID                                          | Automatic         |
+| Volunteer?     | The User who Volunteered for the task                                                                        | AccountID                                          | Automatic         |
+| CurrentOwner   | The user who currently is working on the task and thus has ownership of it.                                  | AccountID                                          | Automatic         |
+| Related        | Group of tasks that are related to the current task.                                                         | List of Tasks                                      | Manual            |
+| Status         | The current status of the task                                                                               | Enum [Created, InProgress, Closed] To be expanded? | Automatic         |
+| Created        | The time the task was created                                                                                | DateTime                                           | Automatic         |
+| LastUpdated    | Time when the task has been updated                                                                          | DateTime                                           | Automatic         |
+| Completed      | Time when the task was completed                                                                             | DateTime                                           | Automatic         |

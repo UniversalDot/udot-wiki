@@ -31,5 +31,23 @@ Clicking on `Create organization` open a modal dialog where you can fill out org
 
 See example in the image below.
 
-![Task](https://i.imgur.com/U1UW4mW.gif)k
+![Task](https://i.imgur.com/U1UW4mW.gif)
+
+## Data Model of a Organization
+
+| Characteristic | Description                                                                                                                             | Type                           | Entry                |
+|----------------|-----------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|----------------------|
+| ID             | Unique identifier for an organization                                                                                                   | UUID or similar                | Automatic            |
+| Name           | The name of the organization                                                                                                            | String                         | Manual, Mandatory    |
+| Description    | Basic description regarding the organization, industry, and goals                                                                       | String                         | Manual, Optional     |
+| Owner          | The account that owns the organization. The initial owner is the founder. Ownership should be able to be transferred to other accounts. | Account ID                     | Automatic, Mandatory |
+| Vision         | Document that describes company Vision                                                                                                  | String (Hash to IPFS Document) | Manual, Mandatory    |
+| Members        | Members that belong to an organization                                                                                                  | Array of AccountID             | Manual, Mandatory    |
+| Tasks          | Tasks that belong to a certain Organization                                                                                             | Array of TaskID                | Manual, Mandatory    |
+| Applicants     | Users that have applied to join to a certain organization                                                                               | Array of AccountID             | Automatic            |
+| Created        | The date when the organization was created                                                                                              | DateTime, Block                | Automatic            |
+| LastUpdated    | The date when the organization had an update                                                                                            | DateTime, Block                | Automatic            |
+| Properties     | Custom collection of properties that can be added.                                                                                      | An array of Objects            | Manual, Optional     |
+|                |                                                                                                                                         |                                |                      |
+|                |                                                                                                                                         |                                                          |                      |
 

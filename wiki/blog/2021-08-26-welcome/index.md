@@ -1,25 +1,18 @@
 ---
 slug: welcome
 title: Welcome
-authors: [slorber, yangshun]
-tags: [facebook, hello, docusaurus]
+authors: [igor, slave]
+tags: [welcome, information, docusaurus]
 ---
 
-[Docusaurus blogging features](https://docusaurus.io/docs/blog) are powered by the [blog plugin](https://docusaurus.io/docs/api/plugins/@docusaurus/plugin-content-blog).
+![Docusaurus Plushie](./undraw_welcome_cats_thqn.png)
 
-Simply add Markdown files (or folders) to the `blog` directory.
+Welcome to our Blog. 
 
-Regular blog authors can be added to `authors.yml`.
+Here we will share updates and news regarding UDOT.
 
-The blog post date can be extracted from filenames, such as:
+Join us in Learning a Building a better future with WEB3.
 
-- `2019-05-30-welcome.md`
-- `2019-05-30-welcome/index.md`
+For now, feel free to browse the documentation.
 
-A blog post folder can be convenient to co-locate blog post images:
-
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
-
-The blog supports tags as well!
-
-**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config.
+If you have any questions, please refer to our FAQ's section. 
