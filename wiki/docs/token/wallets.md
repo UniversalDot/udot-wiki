@@ -9,6 +9,13 @@ sidebar_position: 4
 UDOT can be stored on plethora of wallets. 
 
 
+| Wallet Name                                                         | Development State | Team Name | Description       | Custody       | Supports |
+| ------------------------------------------------------------------- | ----------------- | --------- | ----------------- | ------------- | -------- |
+| [Parity Signer](https://www.parity.io/signer/)                      | Live              | Parity    | iOS and Android   | Non-custodial | Staking  |
+| [Polkadot-js Desktop](https://github.com/polkadot-js/apps/releases) | Live              | Parity    | Win, Mac, Linux   | Non-custodial | Staking  |
+| [Polkadot-js extension](https://github.com/polkadot-js/extension)   | Live              | Parity    | Browser extension | Non-custodial | Staking  |
+
+
 ## Polkadot Extension
 
 The most convenient way to start using the application is to install the polkadot.js extension. 
