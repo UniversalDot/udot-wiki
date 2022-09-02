@@ -10,8 +10,7 @@ To ensure all developed functionality works as intended, tests have been impleme
 
 ##### Mock Runtime
 
-Pallet test depend on substrate Runtime. To be able to run these pallet test, first we must construct a mock Runtime environment. Mocks for runtime are constructed for each pallet separately and are located in their respective /src/ folder. <br>
-More information regarding constructing Mock Runtime at the following [link](https://docs.substrate.io/v3/runtime/testing/#mock-runtime-environment).
+Pallet test depend on substrate Runtime. To be able to run these pallet test, first we must construct a mock Runtime environment. Mocks for runtime are constructed for each pallet separately and are located in their respective /src/ folder.
 
 ##### Writing tests
 
