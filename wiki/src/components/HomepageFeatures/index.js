@@ -5,6 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Learn',
+    link: 'docs/learn',
     Svg: require('@site/static/img/undraw_online_learning.svg').default,
     description: (
       <>
@@ -14,6 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Join',
+    link: 'docs/join',
     Svg: require('@site/static/img/undraw_filter.svg').default,
     description: (
       <>
@@ -24,6 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Build',
+    link: 'docs/build',
     Svg: require('@site/static/img/undraw_building_blocks.svg').default,
     description: (
       <>
@@ -33,17 +36,19 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, description, link}) {
   return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+      <div className={clsx('col col--4')} >
+        <a href={link}>
+          <div className="text--center">
+            <Svg className={styles.featureSvg} role="img"/>
+          </div>
+          <div className="text--center padding-horiz--md">
+            <h3>{title}</h3>
+            <p>{description}</p>
+          </div>
+        </a>
       </div>
-      <div className="text--center padding-horiz--md">
-        <h3>{title}</h3>
-        <p>{description}</p>
-      </div>
-    </div>
   );
 }
 
