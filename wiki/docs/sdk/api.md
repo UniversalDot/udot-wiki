@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # API
 
-We are exposing `typyscript` based API which allows developers to interact with our nodes. 
+We are exposing `typescript` based API which allows developers to interact with our nodes. 
 
 ## Install
 
