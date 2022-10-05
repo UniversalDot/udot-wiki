@@ -20,7 +20,7 @@ Just navigate to the Profile tab in the Menu bar and fill out your details.
 
 See the image bellow as an example.
 
-![Profile Creation](https://i.imgur.com/YE5VgUS.gif)
+![Profile Creation](https://ipfs.io/ipfs/QmcSqZLbHUW3boymgxF7PqUp3KXWHjoZueKhLJ3F2Wew7C?filename=profile.png)
 
 ### Profile Reputation
 
