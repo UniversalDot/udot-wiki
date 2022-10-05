@@ -12,6 +12,10 @@ By creating a profile, you are broadcasting to the network your self-assigned us
 
 Furthermore, in the future tasks will be recommended to you based on your interests. For example, if you are interested in web-development we will traverse through all the tasks available in the network and suggest some web-development tasks that are suitable for you. 
 
+### Account 
+
+![Account](https://ipfs.io/ipfs/QmR5CTTGG7wi1nHZeBVg7NQ85gkcRC7gZ9bLgswyJNVk7v?filename=Accounts.png)
+
 ### How To Create A Profile...
 
 To create a profile is very straightforward. 
