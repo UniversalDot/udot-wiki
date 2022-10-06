@@ -10,9 +10,14 @@ Profile is essential part of the universaldot.me application.
 
 By creating a profile, you are broadcasting to the network your self-assigned username and interests. Anyone is allowed to create a identity.
 
-Furthermore, in the future tasks will be recommended to you based on your interests. For example, if you are interested in web-development we will traverse through all the tasks available in the network and suggest some web-development tasks that are suitable for you. 
 
-### Account 
+### Keys 
+
+Before creating a profile, first you must create your own set of keys. 
+
+The public/private key pair is how you authenticate your identity with the application. For more information on how to generate your keys, please refer to our [wallet](token/../../token/wallets.md) section.
+
+We recommend the use of the chrome extension which automatically loads your keys into the application. An example of how your keys look like within the application is shown below.
 
 ![Account](https://ipfs.io/ipfs/QmR5CTTGG7wi1nHZeBVg7NQ85gkcRC7gZ9bLgswyJNVk7v?filename=Accounts.png)
 
