@@ -60,9 +60,13 @@ Also, the tasks status should turn green with status `Completed`.
 
 ## How to Update A Task
 
+To update an already created and existing task, navigate to the Organization tab and then select Tasks from the sub-menu.
 
+In the list of tasks, find the task you wish to update and click the Update action. See image below as an example.
 
-## How to Delete A Task
+![Task](https://ipfs.io/ipfs/QmTjnrcJhbv8uCvRCCxsieg366AniY4A4qgGRC7gQURc29?filename=UpdateTask.png#center)
+
+## How to Remove A Task
 
 ## Data Model of a Task
 
