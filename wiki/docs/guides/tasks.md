@@ -42,6 +42,12 @@ See below the window used to create a task.
 
 ## How to Start A Task
 
+To start a task, navigate to the Dashboard menu. There you will see a list of task recommended to you based on your profile information. 
+
+Once you find a task that you would like to work on, just click on the top left corner toast icon. This will propmt you for an action to start a task. See image below. 
+
+![Task](https://ipfs.io/ipfs/QmTyXQpR432PXM4QUVf2JnW4itm1SdWRrydrvFtwDK6MJC?filename=StartTask.png#center)
+
 ## How to Complete A Task
 
 
