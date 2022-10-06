@@ -25,11 +25,29 @@ We recommend the use of the chrome extension which automatically loads your keys
 
 To create a profile is very straightforward. 
 
-Just navigate to the Profile tab in the Menu bar and fill out your details. 
+Just navigate to the Profile tab in the Menu bar and fill out your details.
 
-See the image bellow as an example.
+You need to fill in some basic information such as:
 
-![Profile Creation](https://ipfs.io/ipfs/QmcSqZLbHUW3boymgxF7PqUp3KXWHjoZueKhLJ3F2Wew7C?filename=profile.png)
+- **Username**: The name under which you want to be known. (can be pseudonymous)
+- **Interests**: Things you enjoy doing. Your interests will be used to recommend tasks and organizations to you.
+- **Availability**: The amount of hours you are available per week.
+- **Other Information**: Any other information you would want to share.
+
+After writing your information, click on *Create Profile* button. You should receive a notification that your profile has been successfully created.
+
+![Profile Creation](https://ipfs.io/ipfs/QmYhfzW7irRdki5yqKtGL7yMYXrrtaN3L5YgcGNCRptfTV?filename=Createprofile.png)
+
+Your profile information should appear someone as the image shown below.
+
+![Profile](https://ipfs.io/ipfs/QmcSqZLbHUW3boymgxF7PqUp3KXWHjoZueKhLJ3F2Wew7C?filename=profile.png)
+
+ 
+## How to update a profile
+
+
+## How to delete a profile
+
 
 ### Profile Reputation
 
@@ -45,14 +63,7 @@ Reputation(sj) - the assessed reputation of sj as calculated by the service cons
 
 The credibility of a service rater lies in the interval [0,1] with 0 identifying a dishonest rater and 1 an honest one.
 
-Source: https://www.researchgate.net/publication/220473549_RATEWeb_Reputation_Assessment_for_Trust_Establishment_among_Web_services 
-
-
-## How to update a profile
-
-
-## How to delete a profile
-
+Source: https://www.researchgate.net/publication/220473549_RATEWeb_Reputation_Assessment_for_Trust_Establishment_among_Web_services
 
 ## Data Model of a Profile
 
