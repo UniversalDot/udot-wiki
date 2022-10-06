@@ -44,12 +44,19 @@ See below the window used to create a task.
 
 To start a task, navigate to the Dashboard menu. There you will see a list of task recommended to you based on your profile information. 
 
-Once you find a task that you would like to work on, just click on the top left corner toast icon. This will propmt you for an action to start a task. See image below. 
+Once you find a task that you would like to work on, just click on the top left corner toast icon. This will prompt you for an action to start a task. See image below. 
 
 ![Task](https://ipfs.io/ipfs/QmTyXQpR432PXM4QUVf2JnW4itm1SdWRrydrvFtwDK6MJC?filename=StartTask.png#center)
 
 ## How to Complete A Task
 
+To complete a task, first navigate to your Dashboard. From there, find the task that you wish to complete. 
+
+Click on the action to complete a task. After the completion, you should see a notification that the task completion was successful. 
+
+Also, the tasks status should turn green with status `Completed`. 
+
+![Task](https://ipfs.io/ipfs/QmTyXQpR432PXM4QUVf2JnW4itm1SdWRrydrvFtwDK6MJC?filename=StartTask.png#center)
 
 ## How to Update A Task
 
