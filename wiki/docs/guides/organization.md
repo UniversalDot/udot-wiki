@@ -4,19 +4,21 @@ sidebar_position: 3
 
 # Organizations
 
-### Overview
+## Overview
 
-The DAO organizes People with a common Vision to work on projects. The DAO works as an extension to the Task module since it enables the creation of large projects which collect many tasks.
+Organizations organize people with a common Vision to work on projects. The Organizations works as an extension to the Task module since it enables the creation of large projects which collect many tasks.
 
-A visionary user is able to propose a Vision for the future. Within the vision, a specified Roadmap is created that is broken down into tasks. Thus a DAO is a collection of tasks who are undertaken by people that believe in the vision of the Founder.
+A visionary user is able to propose a Vision for the future. Within the vision, a specified Roadmap is created that is broken down into tasks. Thus a Organization is a collection of tasks who are undertaken by people that believe in the vision of the Founder.
 
-Users support a Vision by signing a vision document. Signing a vision document enables users to be added to a DAO where they will be able to create/fulfill tasks in support of the overall vision.
+Users support a Vision by signing a vision document. Signing a vision document enables users to be added to a Organization where they will be able to create/fulfill tasks in support of the overall vision.
 
 For completion of tasks, users are rewarded tokens and increased reputation.
 
-### How To Create An Organization (DAO)
+![Task](https://ipfs.io/ipfs/Qmd2XrxREJK5WoQYUUBoJsuDU2hDbrUuxLwkNPn42EgacH?filename=dao.png)
 
-To create your own DAO navigate to the `Organization` tab in the menu and then click on `Own organization`. Here you will be given several action options which include the following
+### Organization Actions
+
+Within an organization, the following actions can be performed:
 
 * Create Vision
 * Remove Vision
@@ -27,11 +29,26 @@ To create your own DAO navigate to the `Organization` tab in the menu and then c
 * Add task
 * Remove task
 
+## How To Create An Organization (DAO)
+
+To create your own DAO navigate to the `Organization` tab in the menu and then click on `My organization` and then `Organizations`. On the right top corner on the new page you will find a button *Create Organizations*. 
+
 Clicking on `Create organization` open a modal dialog where you can fill out organizational details.
 
-See example in the image below.
+![Task](https://ipfs.io/ipfs/QmURX9SHnY2PHXE4cfKDdwGbQB7DmY6CC76xpXnftKDBbL?filename=CreateOrganization.png#center)
 
-![Task](https://ipfs.io/ipfs/Qmd2XrxREJK5WoQYUUBoJsuDU2hDbrUuxLwkNPn42EgacH?filename=dao.png)
+
+## Managing your organization
+
+Once your organization is created, you can perform the following actions:
+
+- **Update**: Change the basic information related ro your organization
+- **Transfer Ownership**: Transfer the organization to another user
+- **Dissolve**: Dissolve the organization once the vision has been fulfilled.
+
+
+![Task](https://ipfs.io/ipfs/QmSLLx6XUpsiLKEcYyykooyaCBcjsj7J9fXbUpCNAZyzeh?filename=DaoActions.png#center)
+
 
 ## Data Model of a Organization
 
