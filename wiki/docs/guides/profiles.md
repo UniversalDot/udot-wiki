@@ -12,7 +12,7 @@ By creating a profile, you are broadcasting to the network your self-assigned us
 
 *Anyone is allowed to create a profile.*
 
-![Profile](https://ipfs.io/ipfs/QmcSqZLbHUW3boymgxF7PqUp3KXWHjoZueKhLJ3F2Wew7C?filename=profile.png)
+![Profile](https://ipfs.io/ipfs/QmcSqZLbHUW3boymgxF7PqUp3KXWHjoZueKhLJ3F2Wew7C?filename=profile.png#center)
 
 ### Keys 
 
@@ -22,7 +22,7 @@ The **public/private key pair** is how you authenticate your identity with the a
 
 We recommend the use of the *polkadot.js* chrome extension which automatically loads your keys into the application. An example of how your keys look like within the application is shown below.
 
-![Account](https://ipfs.io/ipfs/QmR5CTTGG7wi1nHZeBVg7NQ85gkcRC7gZ9bLgswyJNVk7v?filename=Accounts.png)
+![Account](https://ipfs.io/ipfs/QmR5CTTGG7wi1nHZeBVg7NQ85gkcRC7gZ9bLgswyJNVk7v?filename=Accounts.png#center)
 
 ### How To Create A Profile...
 
@@ -39,21 +39,21 @@ You need to fill in some basic information such as:
 
 After writing your information, click on *Create Profile* button. You should receive a notification that your profile has been successfully created.
 
-![Profile Creation](https://ipfs.io/ipfs/QmYhfzW7irRdki5yqKtGL7yMYXrrtaN3L5YgcGNCRptfTV?filename=Createprofile.png)
+![Profile Creation](https://ipfs.io/ipfs/QmYhfzW7irRdki5yqKtGL7yMYXrrtaN3L5YgcGNCRptfTV?filename=Createprofile.png#center)
  
 ## How to update a profile
 
 When you want to update your profile, simply navigate back to your profile 
 page and input the new information. Once you are done editing, click the Save Changes button as shown below.
 
-![Profile](https://ipfs.io/ipfs/QmUHSWJP4txcD2zpCjY6kJJjDDVxXy9jb2wSYgq5xn5FNu?filename=Update.png)
+![Profile](https://ipfs.io/ipfs/QmUHSWJP4txcD2zpCjY6kJJjDDVxXy9jb2wSYgq5xn5FNu?filename=Update.png#center)
 
 
 ## How to delete a profile
 
 To delete your profile and all its associated data, just click on the *Delete Profile* button.
 
-![Profile](https://ipfs.io/ipfs/QmUHSWJP4txcD2zpCjY6kJJjDDVxXy9jb2wSYgq5xn5FNu?filename=Update.png)
+![Profile](https://ipfs.io/ipfs/QmUHSWJP4txcD2zpCjY6kJJjDDVxXy9jb2wSYgq5xn5FNu?filename=Update.png#center)
 ## Profile Reputation
 
 To ensure that every user acts with integrity, the system keeps track of reputation. Reputation is rewarded each time user contributes to a task, organization. Reputation is taken away when the user negatively contributes to previously established contracts. 

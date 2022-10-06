@@ -6,7 +6,7 @@ sidebar_position: 1
 
 ## Design
 
-![Architecture](/img/architecture_diagram.png)
+![Architecture](/img/architecture_diagram.png#center)
 
 
 ## Components
