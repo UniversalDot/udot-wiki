@@ -4,25 +4,57 @@ sidebar_position: 1
 
 # Profiles
 
-Profile is essential part of the universaldot.me application. 
+Profile is essential part of the application. Profile is used to create your onchain identity.
 
- The Profile is used to enrich the AccountID information with user specific metadata such as personal interests, name, reputation, etc. Each User can create a single user profile per AccountID.
+The Profile is used to enrich the AccountID information with user specific metadata such as **personal interests, name, reputation**, etc. Each User can create a single user profile per AccountID.
 
-By creating a profile, you are broadcasting to the network your self-assigned username and interests. Anyone is allowed to create a identity.
+By creating a profile, you are broadcasting to the network your self-assigned username and interests. 
 
-Furthermore, in the future tasks will be recommended to you based on your interests. For example, if you are interested in web-development we will traverse through all the tasks available in the network and suggest some web-development tasks that are suitable for you. 
+*Anyone is allowed to create a profile.*
+
+![Profile](https://ipfs.io/ipfs/QmcSqZLbHUW3boymgxF7PqUp3KXWHjoZueKhLJ3F2Wew7C?filename=profile.png)
+
+### Keys 
+
+Before creating a profile, first you must create your own set of keys. 
+
+The **public/private key pair** is how you authenticate your identity with the application. For more information on how to generate your keys, please refer to our [wallet](token/../../token/wallets.md) section.
+
+We recommend the use of the *polkadot.js* chrome extension which automatically loads your keys into the application. An example of how your keys look like within the application is shown below.
+
+![Account](https://ipfs.io/ipfs/QmR5CTTGG7wi1nHZeBVg7NQ85gkcRC7gZ9bLgswyJNVk7v?filename=Accounts.png)
 
 ### How To Create A Profile...
 
 To create a profile is very straightforward. 
 
-Just navigate to the Profile tab in the Menu bar and fill out your details. 
+Just navigate to the Profile tab in the Menu bar and fill out your details.
 
-See the image bellow as an example.
+You need to fill in some basic information such as:
 
-![Profile Creation](https://i.imgur.com/YE5VgUS.gif)
+- **Username**: The name under which you want to be known. (can be pseudonymous)
+- **Interests**: Things you enjoy doing. Your interests will be used to recommend tasks and organizations to you.
+- **Availability**: The amount of hours you are available per week.
+- **Other Information**: Any other information you would want to share.
 
-### Profile Reputation
+After writing your information, click on *Create Profile* button. You should receive a notification that your profile has been successfully created.
+
+![Profile Creation](https://ipfs.io/ipfs/QmYhfzW7irRdki5yqKtGL7yMYXrrtaN3L5YgcGNCRptfTV?filename=Createprofile.png)
+ 
+## How to update a profile
+
+When you want to update your profile, simply navigate back to your profile 
+page and input the new information. Once you are done editing, click the Save Changes button as shown below.
+
+![Profile](https://ipfs.io/ipfs/QmUHSWJP4txcD2zpCjY6kJJjDDVxXy9jb2wSYgq5xn5FNu?filename=Update.png)
+
+
+## How to delete a profile
+
+To delete your profile and all its associated data, just click on the *Delete Profile* button.
+
+![Profile](https://ipfs.io/ipfs/QmUHSWJP4txcD2zpCjY6kJJjDDVxXy9jb2wSYgq5xn5FNu?filename=Update.png)
+## Profile Reputation
 
 To ensure that every user acts with integrity, the system keeps track of reputation. Reputation is rewarded each time user contributes to a task, organization. Reputation is taken away when the user negatively contributes to previously established contracts. 
 
@@ -36,14 +68,7 @@ Reputation(sj) - the assessed reputation of sj as calculated by the service cons
 
 The credibility of a service rater lies in the interval [0,1] with 0 identifying a dishonest rater and 1 an honest one.
 
-Source: https://www.researchgate.net/publication/220473549_RATEWeb_Reputation_Assessment_for_Trust_Establishment_among_Web_services 
-
-
-## How to update a profile
-
-
-## How to delete a profile
-
+Source: https://www.researchgate.net/publication/220473549_RATEWeb_Reputation_Assessment_for_Trust_Establishment_among_Web_services
 
 ## Data Model of a Profile
 

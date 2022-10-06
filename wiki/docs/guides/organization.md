@@ -31,7 +31,7 @@ Clicking on `Create organization` open a modal dialog where you can fill out org
 
 See example in the image below.
 
-![Task](https://i.imgur.com/U1UW4mW.gif)
+![Task](https://ipfs.io/ipfs/Qmd2XrxREJK5WoQYUUBoJsuDU2hDbrUuxLwkNPn42EgacH?filename=dao.png)
 
 ## Data Model of a Organization
 

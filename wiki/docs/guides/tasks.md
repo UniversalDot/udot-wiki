@@ -28,7 +28,7 @@ To create Task is navigate to the `Organization` tab in the Menu and then select
 
 See below for reference.
 
-![Task](https://i.imgur.com/MGBufFQ.gif)
+![Task](https://ipfs.io/ipfs/QmWVYPFZCbymXztFM83H8nxSoxyFjRPegLsMZ2a47kT6G7?filename=tasks.png)
 
 
 ## How to Update A Task
