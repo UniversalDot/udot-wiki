@@ -6,6 +6,8 @@ sidebar_position: 2
 
 We are exposing `typescript` based API which allows developers to interact with our nodes. 
 
+The API library can be found in this [Github](https://github.com/UniversalDot/polkadot-js-api-ts-template) repository.
+
 ## Install
 
 A pre-requisite tool for interacting with our node is [ts-node](https://www.npmjs.com/package/ts-node).
