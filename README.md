@@ -1,15 +1,20 @@
 # udot-wiki
 
-The source of Truth for UniversalDot applications
+The source of Truth for UniversalDot applications. 
 
-### Deployment Production
-
-The **master** branch of this repository is deployed automatically to docs.universaldot.me
+This documentation is created using [Docusaurus](https://docusaurus.io/).
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Pull requests are welcomed. 
+
+Please create a new branch from `develop`, make your contributions and create a pull requests to merge it back into `develop` branch again.
+
+For major changes, please open an issue first to discuss what you would like to change.
+
+### Deployment
+
+The `master` branch of this repository is deployed automatically to docs.universaldot.me
 
 ## Maintainers
 

@@ -6,8 +6,8 @@ sidebar_position: 8
 
 In the Build Section, you get to **Build** something amazing using UDOT.
 
-Build a digital **organization** and hire remote talent from around the world.
+Build a digital [**Organization**](/guides/organization.md) and hire remote talent from around the world.
 
-Build a **front-end** application that interacts with Substrate.
+Build a [**Front-end**](/sdk/development.md) application that interacts with Substrate.
 
-Build using the  **API** documentation that we have made available.
+Build using the  [**API**](/sdk/api.md) documentation that we have made available.
