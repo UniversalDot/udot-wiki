@@ -26,4 +26,4 @@ Follow for UniveralDot Foundation on [LinkedIn](https://www.linkedin.com/company
 
 ### YouTube
 
-Watch presentation and videos on [YouTube](https://www.youtube.com/channel/UCX8sSzJGQmqqnmOozRspNVQ).
+Watch presentation and videos on [YouTube](https://www.youtube.com/@universaldotfoundation).

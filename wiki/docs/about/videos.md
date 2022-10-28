@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Videos
 
-Universaldot Foundation official YouTube channel: [UniversalDot - YouTube](https://www.youtube.com/channel/UCX8sSzJGQmqqnmOozRspNVQ)
+Universaldot Foundation official YouTube channel: [UniversalDot - YouTube](https://www.youtube.com/@universaldotfoundation)
 
 - [Promo](https://www.youtube.com/watch?v=dADLbKl1P7g)
 - [Introduction](https://www.youtube.com/watch?v=QgjvhzC47tA)

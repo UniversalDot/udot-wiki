@@ -92,7 +92,7 @@ const config = {
             items: [
               {
                 label: 'YouTube',
-                href: 'https://www.youtube.com/channel/UCX8sSzJGQmqqnmOozRspNVQ',
+                href: 'https://www.youtube.com/@universaldotfoundation',
               },
               {
                 label: 'LinkedIn',
