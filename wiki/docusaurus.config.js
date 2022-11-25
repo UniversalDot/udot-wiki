@@ -39,6 +39,20 @@ const config = {
     ],
   ],
 
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'mk', 'es'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      fa: {
+        direction: 'rtl',
+      },
+    },
+  },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -49,6 +63,10 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             type: 'doc',
             docId: 'learn',
