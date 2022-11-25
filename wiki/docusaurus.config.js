@@ -66,6 +66,12 @@ const config = {
           {
             type: 'localeDropdown',
             position: 'right',
+            dropdownItemsAfter: [
+              {
+                href: 'https://github.com/UniversalDot/udot-wiki/issues/21',
+                label: 'Help Us Translate',
+              },
+            ],
           },
           {
             type: 'doc',
