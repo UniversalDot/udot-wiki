@@ -1,0 +1,34 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.About": {
+    "message": "About",
+    "description": "The label for category About in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Architecture": {
+    "message": "Architecture",
+    "description": "The label for category Architecture in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Token": {
+    "message": "Token",
+    "description": "The label for category Token in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.App Guides": {
+    "message": "App Guides",
+    "description": "The label for category App Guides in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Network": {
+    "message": "Network",
+    "description": "The label for category Network in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.SDK": {
+    "message": "SDK",
+    "description": "The label for category SDK in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorials": {
+    "message": "Tutorials",
+    "description": "The label for category Tutorials in sidebar tutorialSidebar"
+  }
+}
