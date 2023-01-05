@@ -26,3 +26,6 @@ Since its inception, the evolution of the foundation can be best described throu
 - Rewarded grant by the WEB3 Foundation to build initial MVP for a decentralized freelancing application.
 - Architected, designed, and implemented the MVP for the application using the Substrate blockchain framework.
 
+**2023:**
+- To be Determined
+
