@@ -7,9 +7,9 @@ sidebar_position: 3
 Everything that we do is in support of community needs. As such, we have tried to establish online presence in online platform where our community can freely exchange information. 
 
 The list of these community channel is listed below.
-### Discord
+### Slack
 
-Join us on [Discord](https://discord.gg/Nc9wmYqPcw) for a chat.
+Join us on [Slack](https://universaldot.slack.com) for a chat.
 ### Matrix
 
 Join our [Matrix](https://matrix.to/#/#universaldot:matrix.org) channel and chat with members of the team.

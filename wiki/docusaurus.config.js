@@ -39,6 +39,20 @@ const config = {
     ],
   ],
 
+  i18n: {
+    defaultLocale: 'en',
+    locales: ['en', 'mk', 'es'],
+    localeConfigs: {
+      en: {
+        htmlLang: 'en-GB',
+      },
+      // You can omit a locale (e.g. fr) if you don't need to override the defaults
+      fa: {
+        direction: 'rtl',
+      },
+    },
+  },
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -49,6 +63,16 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'right',
+            dropdownItemsAfter: [
+              {
+                href: 'https://github.com/UniversalDot/udot-wiki/issues/21',
+                label: 'Help Us Translate',
+              },
+            ],
+          },
           {
             type: 'doc',
             docId: 'learn',
@@ -99,8 +123,8 @@ const config = {
                 href: 'https://www.linkedin.com/company/universaldot-foundation',
               },
               {
-                label: 'Discord',
-                href: 'https://discord.gg/Nc9wmYqPcw',
+                label: 'Slack',
+                href: 'https://universaldot.slack.com',
               },
               {
                 label: 'Twitter',
