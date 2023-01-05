@@ -123,8 +123,8 @@ const config = {
                 href: 'https://www.linkedin.com/company/universaldot-foundation',
               },
               {
-                label: 'Discord',
-                href: 'https://discord.gg/Nc9wmYqPcw',
+                label: 'Slack',
+                href: 'https://universaldot.slack.com',
               },
               {
                 label: 'Twitter',
