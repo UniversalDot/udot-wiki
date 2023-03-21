@@ -21,6 +21,6 @@ The `master` branch of this repository is deployed automatically to docs.univers
 [@Igor Stojanov](https://github.com/JosephKnecht-lab)
 [@Slave Mitev](https://github.com/smitev)
 
-![Logo](https://github.com/UniversalDot/documents/blob/master/logo/rsz_jpg-02.jpg)
+![Logo](https://github.com/UniversalDot/documents/blob/master/logo/universaldot-logo/rsz_jpg-02.jpg)
 
 

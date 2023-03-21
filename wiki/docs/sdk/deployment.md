@@ -32,3 +32,9 @@ These include:
 The Light Node connect with external Full nodes via REST to enable additional functionality.
 
 To install a Light Node, please follow these [instructions](docker.md). 
+
+### Ansible
+
+We also provide deployment of a blockchain Node via Ansible. 
+
+For instructions on how to install and setup Ansible playbook, please refer to our [Ansible](https://github.com/UniversalDot/ansible) Github repository.
