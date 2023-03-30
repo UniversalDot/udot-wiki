@@ -27,5 +27,6 @@ Since its inception, the evolution of the foundation can be best described throu
 - Architected, designed, and implemented the MVP for the application using the Substrate blockchain framework.
 
 **2023:**
-- To be Determined
+- Rewarded grant by Filecoin Foundation to integrate with IPFS decentralized storage.
+- Relocated the office to Tallinn, Estonia and became incorporate under the name UNIVERSALDOT OÜ.
 
