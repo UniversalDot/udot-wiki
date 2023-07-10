@@ -18,14 +18,14 @@ These three principles build upon each other to enable the IPFS ecosystem.
 
 IPFS is a natural fit for blockchain use cases. The common state of the chain is distributed on-chain among participants, and specific data is stored on IPFS. Thanks to content addressing, the blockchain only needs to store the IPFS multi hash, and users are sure to fetch correct data from any of their peers. This architecture is becoming the de facto standard for blockchain applications.
 
-## Offchain::IPFS
+## IPFS Integration
 
-offchain::ipfs allows you to account for your data transactions and DHT status in the blockchain. These on-chain insights can serve as a foundation for incentivized data storage and replication. This means no separate executable: both blockchain and distributed storage are together in one.
+Integrating IPFS within the UniversalDot application via the **ipfs-http-client** opens up new possibilities for decentralized and resilient data management. The **ipfs-http-client** is a library that provides a convenient HTTP interface to interact with IPFS nodes. By integrating this client into our front-end, the application gains the ability to interact with the IPFS network, leverage its features, and enhance the overall user experience.
 
-By including the **Rust implementation IPFS** in the native Substrate runtime, and by allowing pass-through wasm calls via Substrate's Off-chain Workers, we enable a powerful and familiar subset of the **IPFS APIs**, including
-* ipfs add - Write data to IPFS
-* ipfs cat - Read data from IPFS
-* ipfs dht findpeer - Discover peers
-* ipfs dht findprovs - Discover content
-* ipfs swarm connect/disconnect - Swarm with other IPFS peers
-* ipfs pin add / rm - Pin and unpin content
+With the integration of **ipfs-http-client**, UniversalDot can easily upload and retrieve files to and from the IPFS network. Users can securely store their files on IPFS, taking advantage of its distributed storage infrastructure and content-based addressing. This ensures that files are accessible even if the original hosting server becomes unavailable. By using IPFS for file storage, UniversalDot can also benefit from the inherent versioning and deduplication capabilities of IPFS. This allows users to track changes, revert to previous versions, and save storage space by eliminating redundant content.
+
+Furthermore, integrating IPFS within UniversalDot via the **ipfs-http-client** can enable seamless sharing and collaboration among users. Files stored on IPFS can be easily shared by generating unique IPFS links that reference the content's hash. These links can be shared with others, enabling them to directly access and download the file from IPFS, regardless of their geographical location. This decentralized sharing approach eliminates the need for centralized servers and provides a more resilient and censorship-resistant method of content distribution. By leveraging IPFS's peer-to-peer network, UniversalDot can enhance collaboration and foster a more inclusive and accessible platform for its users.
+
+## IPFS Design Document
+
+For more details regarding integration, please refer to the official published [IPFS-Design Document](https://drive.google.com/file/d/1ov7jfAPMTuotbHRwTMIRvLKomt1c1e3f/view?usp=sharing). 
