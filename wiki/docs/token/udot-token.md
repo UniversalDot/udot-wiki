@@ -13,9 +13,8 @@ Honest participants are rewarded UDOT and malicious actors can lose their UDOT.
 ## Quick Summary
 
 - **Token Name**: UDOT (UDOT) 
-- **Anticipated Launch**: November 2022
+- **Anticipated Launch**: To Be Determined
 - **Smallest Unit**: 1 Planck (1^10 Plancks = 1 UDOT)
-
 - **Annual Inflation**: 7%
 - **Genesis Supply**: 1 Billion
 - **Fees**: 50% burned / 50% treasury
