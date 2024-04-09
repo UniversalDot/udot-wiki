@@ -30,3 +30,6 @@ Since its inception, the evolution of the foundation can be best described throu
 - Rewarded grant by Filecoin Foundation to integrate with IPFS decentralized storage.
 - Relocated the office to Tallinn, Estonia and became incorporate under the name UNIVERSALDOT OÜ.
 
+**2024:**
+- Continued development of additional features for the application. 
+- Focus on business developing and planning an initial go-live.
