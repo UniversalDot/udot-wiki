@@ -40,7 +40,7 @@
     "description": "The label of footer link with label=GitHub linking to https://github.com/UniversalDot"
   },
   "copyright": {
-    "message": "Copyright © 2023 UniversalDot Foundation. Built with Docusaurus.",
+    "message": "Copyright © 2024 UniversalDot Foundation. Built with Docusaurus.",
     "description": "The footer copyright"
   }
 }
