@@ -65,6 +65,5 @@ Once your organization is created, you can perform the following actions:
 | Created        | The date when the organization was created                                                                                              | DateTime, Block                | Automatic            |
 | LastUpdated    | The date when the organization had an update                                                                                            | DateTime, Block                | Automatic            |
 | Properties     | Custom collection of properties that can be added.                                                                                      | An array of Objects            | Manual, Optional     |
-|                |                                                                                                                                         |                                |                      |
-|                |                                                                                                                                         |                                                          |                      |
+
 
