@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# UniversalDot Foundation
+# UNIVERSALDOT Foundation
 ### Mission 
 
 UniversalDot Foundation is focused on creating applications for the decentralized internet. Our mission is to enable freedom for each individual to create their own vision of the future. We believe that such a mission can be enabled through the creation of decentralized applications and infrastructure. 
@@ -33,3 +33,4 @@ Since its inception, the evolution of the foundation can be best described throu
 **2024:**
 - Continued development of additional features for the application. 
 - Focus on business developing and planning an initial go-live.
+- Implementation of JAM Protocol in Rust.
