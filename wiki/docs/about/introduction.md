@@ -34,3 +34,7 @@ Since its inception, the evolution of the foundation can be best described throu
 - Continued development of additional features for the application. 
 - Focus on business developing and planning an initial go-live.
 - Implementation of JAM Protocol in Rust.
+
+**2025:**
+- Completed implementation of JAM Protocol.
+- Raising funds to continue development efforts.
