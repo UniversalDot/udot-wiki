@@ -38,3 +38,7 @@ Since its inception, the evolution of the foundation can be best described throu
 **2025:**
 - Completed implementation of JAM Protocol.
 - Raising funds to continue development efforts.
+
+**2026:**
+- Maintenance of the current project
+- Raising seed capital 
